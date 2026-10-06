@@ -6,3 +6,11 @@
 
 ## venv
 venv/
+
+## planer files
+PLAN.md
+
+
+## cache files
+__pycache__/
+
