@@ -10,6 +10,7 @@ requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.142.2",
     "numpy>=2.5.3",
+    "openai>=3.26.0",
     "opencv-python>=5.0.0.93",
     "python-dotenv>=1.2.4",
     "python-multipart>=0.0.32",
