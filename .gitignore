@@ -14,3 +14,6 @@ PLAN.md
 ## cache files
 __pycache__/
 
+
+## agent rules
+agents.md
